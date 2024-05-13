@@ -2,7 +2,7 @@ bitsandbytes==0.39.0
 datasets==2.16.1
 nltk==3.8.1
 numpy==1.26.1
-peft==0.7.0.dev0
+peft @ git+https://github.com/huggingface/peft.git@276c91b143cf593a3fa3b0cfd9def9d42066cd08
 prettytable==3.9.0
 scikit_learn==1.3.2
 scipy==1.11.3

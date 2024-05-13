@@ -1,6 +1,7 @@
 # Read Me
 
-- The preprint we uploaded to ArXiv is not the final version of the article and we will update it in the near future.
+- This paper has been accepted to ICIC 2024 (Oral) (2024.5.13)
+- The preprint we uploaded to ArXiv is not the final version and we will update it in the near future. (2024.5.13)
 
 ***
 
