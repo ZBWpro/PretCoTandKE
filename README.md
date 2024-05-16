@@ -1,9 +1,13 @@
 # Read Me
 
+## News
+
 - This paper has been accepted to ICIC 2024 (Oral) (2024.5.13)
-- The preprint we uploaded to ArXiv is not the final version and we will update it in the near future. (2024.5.13)
+- We have updated the paper uploaded to ArXiv: https://arxiv.org/abs/2404.03921  (2024.5.16)
 
 ***
+
+## Quick Start
 
 - Install Dependencies
 
