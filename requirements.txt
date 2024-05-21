@@ -1,5 +1,7 @@
+accelerate==0.24.1
 bitsandbytes==0.39.0
 datasets==2.16.1
+multiprocess==0.70.12.2
 nltk==3.8.1
 numpy==1.26.1
 peft @ git+https://github.com/huggingface/peft.git@276c91b143cf593a3fa3b0cfd9def9d42066cd08
