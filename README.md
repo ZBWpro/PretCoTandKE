@@ -46,10 +46,10 @@
 
   Paper: [Advancing Semantic Textual Similarity Modeling: A Regression Framework with Translated ReLU and Smooth K2 Loss](https://arxiv.org/abs/2406.05326)
 
-  Conference::star2: EMNLP 2024, **Main**
+  Conference: :star2: EMNLP 2024, **Main**
 
 - Github: [CoT-BERT](https://github.com/ZBWpro/CoT-BERT)
 
   Paper: [CoT-BERT: Enhancing Unsupervised Sentence Representation through Chain-of-Thought](https://arxiv.org/abs/2309.11143) 
 
-  Conference::star2: ICANN 2024, **Oral**
+  Conference: :star2: ICANN 2024, **Oral**
