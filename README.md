@@ -36,6 +36,12 @@
 
 ## Related Work
 
+- Github: [CSE-SFP](https://github.com/ZBWpro/CSE-SFP)
+
+  Paper: [CSE-SFP: Enabling Unsupervised Sentence Representation Learning via a Single Forward Pass](https://arxiv.org/abs/2505.00389)
+
+  Conference: :star2: SIGIR 2025, **Full**
+
 - Github: [Pcc-tuning](https://github.com/ZBWpro/Pcc-tuning)
 
   Paper: [Pcc-tuning: Breaking the Contrastive Learning Ceiling in Semantic Textual Similarity](https://arxiv.org/abs/2406.09790)
